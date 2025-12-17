@@ -23,9 +23,9 @@ Connects securely to OCI-hosted LLMs to provide context-aware coding assistance 
    - **Live Editing:** Tweak generated designs in real-time with an interactive preview.
    - **Exportable Formats:** Save your designs as React components, HTML, or images.
    - **Example Prompts:**
-     - 📊 **Analytics View:** "Create a dashboard showing quarterly revenue growth." -- OK
-     - 📽️ **Presentation:** "Generate a slide deck for a project kickoff meeting." -- ok
-     - 🌐 **Landing Page:** "Design a landing page for a new coffee shop." -- OK
+     - 📊 **Analytics View:** "Create a dashboard showing quarterly revenue growth."
+     - 📽️ **Presentation:** "Generate a slide deck for a project kickoff meeting."
+     - 🌐 **Landing Page:** "Design a landing page for a new coffee shop."
      - 🆚 **Versus Layout:** "Compare React vs Vue in a side-by-side layout."
      - 📅 **Visual Timeline:** "Show the history of oracle company on a timeline."
      - 📈 **Infographic:** "Visualize the benefits of cloud migration."
