@@ -27,7 +27,7 @@ Connects securely to OCI-hosted LLMs to provide context-aware coding assistance 
      - 📽️ **Presentation:** "Generate a slide deck for a project kickoff meeting." -- ok
      - 🌐 **Landing Page:** "Design a landing page for a new coffee shop." -- OK
      - 🆚 **Versus Layout:** "Compare React vs Vue in a side-by-side layout."
-     - 📅 **Visual Timeline:** "Show the history of the internet on a timeline."
+     - 📅 **Visual Timeline:** "Show the history of oracle company on a timeline."
      - 📈 **Infographic:** "Visualize the benefits of cloud migration."
      - 📄 **Research Paper**: "Generate a research paper on the impact of AI on climate change."
      - 🔄 **Interactive Diagram:** "Create an interactive diagram for a presentation."
